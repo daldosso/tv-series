@@ -440,6 +440,14 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "True Blood",
+    "imdb": "",
+    "episodes": 10,
+    "stillWatching": 1,
+    "lastWatched": "S06E06",
+    "wiki": "True Blood"
+  },
+  {
     "title": "True Detective",
     "imdb": "tt2356777",
     "episodes": 8,
